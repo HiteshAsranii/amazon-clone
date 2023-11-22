@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Subtotal.css"
+import "./Css/Subtotal.css"
 import { useHistory } from "react-router-dom";
 import CurrencyFormat from 'react-currency-format';
 import { useStateValue } from "./StateProvider";
